@@ -24,6 +24,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
   where is any relationship between the spread of the coronavirus in a country and how happy people are living in
   that country or not. The dataset is taken from COVID-19 dataset published by Johns Hopkins University and World
   Happiness Report.
+  
 
 ## Projects in Healthcare + Artificial Intelligence Education
 
